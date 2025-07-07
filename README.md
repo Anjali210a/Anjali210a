@@ -40,9 +40,9 @@
 
 ### 🔗 Let's Connect
 
-- 📬 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 📬 [Email](mailto:anjaligupta3414@gmail.com)
+- 💼 [LinkedIn](http://www.linkedin.com/in/anjali-gupta-a56025276)
+- 🌐 [Portfolio]([https://your-portfolio.com](https://anjali210a.github.io/portfolio/))
 
 ---
 
