@@ -1,4 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Anjali</h1>
+
+<p align="center">
+  🎓 Java Enthusiast | 💻 Backend Developer | 📘 Lifelong Learner
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I’m currently working on **Java-based web applications**
+- 🌱 Learning advanced concepts of **Spring Boot**, **JSP/Servlets**, and **Database Integration**
+- 💡 I love solving problems with **clean, object-oriented design**
+- ✨ Actively exploring **open-source projects** and contributing to collaborative development
+- 🎯 Goal: To build scalable and efficient backend systems using Java
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjali210a&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjali210a&theme=transparent" alt="GitHub Summary" />
+</p>
+
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages:** Java, C++, HTML/CSS, JavaScript
+- **Frameworks:** Spring Boot, JSP/Servlets
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, VS Code, IntelliJ, Eclipse, Apache Tomcat
+
+---
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjali210a&theme=nord_bright)
+
+---
+
+### 🔗 Let's Connect
+
+- 📬 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🌐 [Portfolio](https://your-portfolio.com)
+
+---
+
+
+_Thanks for visiting my profile! 😊_
+
 
 ```
 | Language |   Time Spent   |               Percentage                 |
