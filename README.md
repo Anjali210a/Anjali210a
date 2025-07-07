@@ -12,10 +12,9 @@
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <a href="https://github.com/Anjali210a#gh-dark-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Anjali210a&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
-       alt="My GitHub streak stats"
        alt="My GitHub streak stats"
      />
   </a>
@@ -23,10 +22,11 @@
 
 <!-- WakaTime stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <a href="https://github.com/Anjali210a#gh-dark-mode-only">
     <img
         src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=Anjali210a&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29&disable_animations=true"
-        alt="My Wakatime stats"
+        alt="My WakaTime stats"
       />
   </a>
 </div>
+
