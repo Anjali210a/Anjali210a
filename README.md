@@ -42,7 +42,7 @@
 
 - 📬 [Email](mailto:anjaligupta3414@gmail.com)
 - 💼 [LinkedIn](http://www.linkedin.com/in/anjali-gupta-a56025276)
-- 🌐 [Portfolio]([https://your-portfolio.com](https://anjali210a.github.io/portfolio/))
+- 🌐 [Portfolio](https://your-portfolio.com](https://anjali210a.github.io/portfolio/)
 
 ---
 
