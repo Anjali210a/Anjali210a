@@ -1,73 +1,111 @@
-<h1 align="center">Hi there 👋, I'm Anjali</h1>
 
-<p align="center">
-  🎓 Java Enthusiast | 💻 Backend Developer | 📘 Lifelong Learner
-</p>
-
----
-
-### 👩‍💻 About Me
-
-- 🔭 I’m currently working on **Java-based web applications**
-- 🌱 Learning advanced concepts of **Spring Boot**, **JSP/Servlets**, and **Database Integration**
-- 💡 I love solving problems with **clean, object-oriented design**
-- ✨ Actively exploring **open-source projects** and contributing to collaborative development
-- 🎯 Goal: To build scalable and efficient backend systems using Java
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjali210a&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjali210a&theme=transparent" alt="GitHub Summary" />
-</p>
-
-
----
-
-### 🧰 Tech Stack
-
-- **Languages:** Java, C++, HTML/CSS, JavaScript
-- **Frameworks:** Spring Boot, JSP/Servlets
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, VS Code, IntelliJ, Eclipse, Apache Tomcat
-
----
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjali210a&theme=nord_bright)
-
----
-
-### 🔗 Let's Connect
-
-- 📬 [Email](mailto:anjaligupta3414@gmail.com)
-- 💼 [LinkedIn](http://www.linkedin.com/in/anjali-gupta-a56025276)
-- 🌐 [Portfolio](https://your-portfolio.com](https://anjali210a.github.io/portfolio/)
-
----
-
-
-_Thanks for visiting my profile! 😊_
-
-
-```
-| Language |   Time Spent   |               Percentage                 |
-|----------|----------------|------------------------------------------|
-| **Java** | 48 hrs 27 mins | ███████████████████▒░░░░░   **77.86%**   |
-| **C++**  | 41 hrs 41 mins | ████░░░░░░░░░░░░░░░░░░░░░   **15.51%**   |
-| **JSON** | 5 hrs 20 mins  | ▓░░░░░░░░░░░░░░░░░░░░░░░     **3.16%**   |
-| **YAML** | 4 hrs 58 mins  | ▒░░░░░░░░░░░░░░░░░░░░░░░     **1.30%**   |
-| **Other**| 1 hr 27 mins   | ▒░░░░░░░░░░░░░░░░░░░░░░░     **1.13%**   |
-```
-
-<!-- Streak stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/Anjali210a#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Anjali210a&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
+
+# Hi there, I'm Anjali 👋
+  
+### Full-Stack Developer | Building Scalable Web Applications
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-gupta-a56025276)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anjaligupta3414@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anjali210a.github.io/portfolio/)
+
 </div>
 
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjali210a&theme=transparent)
+---
+
+### About Me
+
+```javascript
+const developer = {
+    education: "B.Tech Computer Science (2026)",
+    role: "Backend Developer Intern @ ProDesk IT Engineering",
+    focus: ["Clean Code", "API Design", "System Scalability"],
+    currentlyLearning: ["Microservices", "Docker", "Kubernetes"],
+    lookingFor: "Entry-level Software Engineer opportunities"
+};
+```
+
+---
+<!--  -->
+### Tech Stack
+
+<div align="center">
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| 🗂️ **[Inventory Management System](github-link)** | Java • Spring Boot • React • MySQL | Full CRUD operations with responsive UI and real-time updates |
+| ✅ **[Task Management App](github-link)** | Spring Boot • React • JWT • Docker | Role-based task tracking with authentication & Kubernetes-ready |
+| 🎬 **[Movie Reservation System](github-link)** | Spring Boot • React • MySQL • MVC | Seat booking system with role-based access control |
+
+</div>
+
+---
+
+### Certifications
+
+<div align="center">
+
+![Deloitte](https://img.shields.io/badge/Deloitte-Technology_Job_Simulation-0076A8?style=flat-square&logo=deloitte)
+![IBM](https://img.shields.io/badge/IBM-SkillsBuild_Bootcamp-054ADA?style=flat-square&logo=ibm)
+![IBM AI](https://img.shields.io/badge/IBM-AI_Basics-054ADA?style=flat-square&logo=ibm)
+![IBM LLM](https://img.shields.io/badge/IBM-Large_Language_Models-054ADA?style=flat-square&logo=ibm)
+
+</div>
+
+---
+
+### Experience Highlights
+
+```yaml
+Backend Developer Intern @ ProDesk IT Engineering (June - July 2025):
+  - Improved API response time through optimized RESTful services
+  - Reduced database latency by 20% with query optimization
+  - Implemented Spring Security for authentication & authorization
+  - Practiced clean code, design patterns, and Docker containerization
+```
+
+---
+<div align="center">
+  
+### Fun Fact
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)
+
+</div>
